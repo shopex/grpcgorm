@@ -1,0 +1,4 @@
+grpcgorm
+*.log
+env.conf
+*.exe
